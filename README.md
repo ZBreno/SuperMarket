@@ -1,0 +1,1 @@
+App em React Nativo usando typescript junto com o expo, esse app permite adicionar produtos em um carrinho de compras
